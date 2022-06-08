@@ -1,2 +1,14 @@
 # solveMeFirst
-Kodluyoruz .Net eğitimi için hazırlanan C# Tip Dönüşümleri ödevidir. Hacker Rank Solve Me First cevabı için oluşturulmuştur.
+[Kodluyoruz](https://app.patika.dev/) .Net eğitimi için hazırlanan C# Tip Dönüşümleri ödevidir. Hacker Rank Solve Me First cevabı için oluşturulmuştur.
+## Hacker Rank Solve Me First
+- Main altında aşağıdaki kod bloğunu çalıştırmak yeterli olmuştur. 
+
+    ` return a + b ; `
+
+- Görsel ; 
+    ![solveMeFirstHackerRankGorseli](solveMeFirstHackerRankGorseli.png)
+
+
+### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24) 
+#### https://www.hackerrank.com/ogulcan_celik24
+#### www.patika.dev
