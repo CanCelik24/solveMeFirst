@@ -1,7 +1,7 @@
 # solveMeFirst
 [Kodluyoruz](https://app.patika.dev/) .Net eğitimi için hazırlanan C# Tip Dönüşümleri ödevidir. Hacker Rank Solve Me First cevabı için oluşturulmuştur.
 ## Hacker Rank Solve Me First
-- Main altında aşağıdaki kod bloğunu çalıştırmak yeterli olmuştur. 
+- Yorum satırının altında aşağıdaki kodu yazıp çalıştırmak yeterli olmuştur. 
 
     ` return a + b ; `
 
